@@ -1,3 +1,4 @@
 node_modules
 *.csv*
-*.json*
+abc.json
+def.json
